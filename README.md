@@ -8,8 +8,13 @@ Appflow is easy to set up. In fact, no CI/CD expertise is required. Ready to get
 
 ## Tutorial Guide
 
-It's highly recommended to follow along with the [tutorial guide](https://ionicframework.com/docs/appflow/tutorial/start), which goes into more depth, and you can use this tutorial companion repo to compare your project. 
+It's highly recommended to follow along with the [tutorial guide](https://ionicframework.com/docs/appflow/tutorial/start), which goes into more depth, and you can use this tutorial companion repo to compare your project at different stages. 
 
-**Note: This repo has multiple branches each branch (indicated by part number) corresponds to different stages in the Exploring Appflow Guide.**
+**Note: This repo has multiple branches where each branch (indicated by part number) corresponds to different stages in the Exploring Appflow Guide.**
+
+* part-1 [Web Build and Web Previews](https://ionicframework.com/docs/appflow/tutorial/web-preview)
+* part-2 [Native Builds 101 (Android)](https://ionicframework.com//docs/appflow/tutorial/android)
+* part-3 [Advanced Native Builds (iOS)](https://ionicframework.com//docs/appflow/tutorial/ios)
+* Part-4 [Live Updates](https://ionicframework.com//docs/appflow/tutorial/live_updates)
 
 If you run into any issues or need help understanding any of these concepts, please [contact Ionic Support](https://ionic.zendesk.com/hc/en-us).
