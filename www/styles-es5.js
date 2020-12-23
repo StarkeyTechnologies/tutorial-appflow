@@ -526,11 +526,11 @@
     /***/
     function _(module, exports, __webpack_require__) {
       __webpack_require__(
-      /*! /Users/likhithaalla/cloneapps/tutorial-appflow/src/theme/variables.scss */
+      /*! /Users/danielstarkey/Development/Companies/Starkey Technologies/tutorial-appflow/src/theme/variables.scss */
       "./src/theme/variables.scss");
 
       module.exports = __webpack_require__(
-      /*! /Users/likhithaalla/cloneapps/tutorial-appflow/src/global.scss */
+      /*! /Users/danielstarkey/Development/Companies/Starkey Technologies/tutorial-appflow/src/global.scss */
       "./src/global.scss");
       /***/
     }
